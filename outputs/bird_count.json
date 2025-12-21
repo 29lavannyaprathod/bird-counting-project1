@@ -1,0 +1,1917 @@
+[
+    {
+        "time_sec": 0.12,
+        "current_visible_birds": 1,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 0.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 0.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 0.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 0.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 0.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 0.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 1.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 2.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 3.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 1
+    },
+    {
+        "time_sec": 4.88,
+        "current_visible_birds": 2,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 5.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 6.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 7.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 8.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 9.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 10.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 11.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 12.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 2
+    },
+    {
+        "time_sec": 12.12,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 12.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 12.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 12.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 12.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 12.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 12.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.38,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.5,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.62,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.75,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 13.88,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.0,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.62,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.75,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 14.88,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.0,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.12,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.25,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.5,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.62,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.75,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 15.88,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.0,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 16.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 17.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 18.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.12,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.38,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 19.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.0,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 20.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 21.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 22.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 23.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.25,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.5,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 24.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.5,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 25.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 26.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 27.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 28.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 29.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 30.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 31.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 32.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 33.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 34.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 34.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 34.25,
+        "current_visible_birds": 3,
+        "total_unique_birds": 3
+    },
+    {
+        "time_sec": 34.38,
+        "current_visible_birds": 4,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 34.5,
+        "current_visible_birds": 4,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 34.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 34.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 34.88,
+        "current_visible_birds": 4,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 35.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 36.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 37.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.38,
+        "current_visible_birds": 4,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.5,
+        "current_visible_birds": 4,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 38.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 39.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 40.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 41.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 42.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 43.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 44.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 45.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 46.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.0,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.12,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.25,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.38,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.5,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.62,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.75,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    },
+    {
+        "time_sec": 47.88,
+        "current_visible_birds": 0,
+        "total_unique_birds": 4
+    }
+]

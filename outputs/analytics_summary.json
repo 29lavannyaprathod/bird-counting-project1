@@ -1,0 +1,13 @@
+{
+    "total_unique_birds": 4,
+    "max_visible_birds": 4,
+    "average_weight_grams": 893.54,
+    "min_weight_grams": 292.88,
+    "max_weight_grams": 1303.03,
+    "per_bird_weights": {
+        "0": 292.88,
+        "1": 693.84,
+        "2": 1284.41,
+        "3": 1303.03
+    }
+}
